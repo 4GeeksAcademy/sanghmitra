@@ -42,21 +42,23 @@ p{
 
 
 .div1{
-    font-size: 50px;
+    font-size: 40px;
     padding-left: 20px;
-    padding-top: 30px;
+    padding-top: 15px;
 }
 
 .div2{
     display: inline;
     font-family: Roboto;
-    padding-left: 50px;
+    padding-left: 40px;
+    padding-top: 1px;
 }
 
 .div3{
-    padding-left: 320px;
-    padding-top: 40px;
+    padding-left: 360px;
+    padding-top: 20px;
     display:inline;
+    font-size: 30px;
 }
 
 .post-header{
