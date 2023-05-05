@@ -34,6 +34,7 @@ p{
     justify-content:left;
     font-size: 30px;
     padding-left: 15px;
+    padding-top: 4px;
 }
 
 .b{
@@ -42,26 +43,22 @@ p{
 
 
 .div1{
-    font-size: 40px;
-    padding-left: 20px;
-    padding-top: 15px;
+    font-size: 20px;
+    padding-left: 17px;
 }
 
 .div2{
-    display: inline;
-    font-family: Roboto;
-    padding-left: 40px;
-    padding-top: 1px;
-}
-
-.div3{
-    padding-left: 360px;
-    padding-top: 20px;
+    padding-left: 400px;
+    padding-top: 6px;
     display:inline;
-    font-size: 30px;
+    font-size: 24px;
 }
 
 .post-header{
-    display: flex;    
+    display: flex;
+    padding-left: 20px;
+    padding-top: 20px;
+    height: 70px; 
+    font-size: 30 px;   
 }
 
